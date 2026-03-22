@@ -1,0 +1,14 @@
+.feature-importance {
+  padding: 2rem 0;
+}
+
+.feature-importance h1 {
+  text-align: center;
+  margin-bottom: 2rem;
+  color: white;
+}
+
+.chart-container {
+  max-width: 1000px;
+  margin: 0 auto;
+}

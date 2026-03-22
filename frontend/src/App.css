@@ -1,0 +1,17 @@
+/* App specific styles */
+
+main.container {
+  min-height: calc(100vh - 60px);
+  padding: 2rem 1rem;
+  background: var(--background-color);
+}
+
+main.container > div {
+  background: var(--background-color);
+}
+
+@media (max-width: 768px) {
+  main.container {
+    padding: 1rem;
+  }
+}
