@@ -12,7 +12,6 @@ const Navbar = () => {
           <li><Link to="/dashboard">Dashboard</Link></li>
           <li><Link to="/compare">Compare</Link></li>
           <li><Link to="/reports">Reports</Link></li>
-          <li><Link to="/batch-predict">Batch Analysis</Link></li>
           <li><Link to="/feature-importance">Feature Importance</Link></li>
           <li><Link to="/research">Research</Link></li>
           <li><Link to="/about">About</Link></li>
